@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "my first react blog",
+      "body": " This blog has everything about your life that even you dont know",
+      "author": "Codex",
+      "id": 1
+    },
+    {
+      "title": "React Bloggy",
+      "body": "Bloggy is a bloody react bloggy that can be bloody by using your hobby to fetch Json data from a bloody bloggy react blog :)",
+      "author": "Blogorian",
+      "id": 2
+    }
+  ]
+}
